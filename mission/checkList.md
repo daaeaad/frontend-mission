@@ -149,4 +149,6 @@
 - [x] api 관련
   - [x] json-server를 사용하여 mock api 이용
   - [x] api url 변경
-- [x] store 구조 수정으로 인한 변경사항 컴포넌트에 반영
+- [x] store 구조 수정으로 인한 변경
+
+---
